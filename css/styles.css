@@ -18,6 +18,12 @@ body
     padding: 0.5em;
 }
 
+#header #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
 #header #tagline
 {
     padding: 0 0 0 1em;
@@ -38,7 +44,16 @@ body
 {
     font-size: 20px;
 }
+
 #post
 {
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
